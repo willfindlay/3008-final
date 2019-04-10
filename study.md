@@ -108,6 +108,15 @@
 
 ## What to Collect?
 
+- time to complete a task
+- time to complete a task after specified time away
+- number and type of error
+- number of errors per unit of time
+- number of navigations to help
+- number of users who make an error
+- number of users who complete task
+- perception questionnaires
+
 ## Messy Data Collection
 
 - solution: pre-processing
@@ -127,16 +136,60 @@
 
 ## Why Do We Need Stats?
 
+- describe data
+- make generalizations based on a sample
+
 ## Type I and Type II Errors
 
 - boy who cried wolf
 - type  I: think effect exists when it doesn't
 - type II: think effect does not exist when it does
-- 95% CI is good (5% chance for type I or II error, p-value <= 0.05)
+- 95% CI is good (5% chance for type I or II error, p-value < 0.05)
+
+## Independent vs Dependent Variables
+
+- independent
+    - what affects the dependent
+- dependent
+    - what we are measuring
+
+## P-Value
+
+- percent chance of making a type I error if you assume H0 is true
+- ideally < 1 - CI
+
+## Hypotheses
+
+- H0 (null)
+    - opposite of HA
+    - we accept or reject this
+- HA (alternative)
+    - opposite of H0
+    - we can only accept or reject H0
+- for t-tests:
+    - accept H0 if p-value > 1 - CI
+    - reject H0 if p-value <= 1 - CI
+- can be one-tailed or two-tailed
+    - one-tailed: HA would be A <= B or A >= B
+    - two-tailed: HA would be A != B or A == B
 
 ## Overall Process of Analyzing Data
 
-<!-- not sure what she means by this, come back to it -->
+- pre-process
+    - parse it
+    - clean it
+- descriptive statistics
+    - mean
+    - SD
+    - lower quartile
+    - middle quartile
+    - upper quartile
+    - whiskers (min, max)
+- graphs and plots
+- tests
+    - t-test
+    - wilcoxon
+    - etc.
 
 
 
@@ -151,7 +204,65 @@
 
 # Statistics
 
+## Skewness
 
+- positive
+    - large right tail
+- negative
+    - large left tail
+
+## Kurtosis
+
+- platykurtic
+    - flat
+    - thin tails
+    - kurt < 0
+- mesokurtic
+    - normal distribution shape
+    - kurt = 0
+- letdokurtic
+    - tall and thin
+    - short but thicker tails
+    - kurt < 0
+
+## Hypothesis Testing
+
+- H0, HA
+- accept H0 if p-value > 0.05
+- reject H0 if p-value <= 0.05
+
+## Type I Error
+
+- assume there is an effect when there isn't
+
+## Type II Error
+
+- assume there isn't an effect when there is
+
+## Examples of Running Descriptive Statistics
+
+<!-- come back to this -->
+<!-- scuba example     -->
+
+## Interpreting Results From Statistical Analysis
+
+- measure effect size
+- look at numbers
+- figure out if data is meaningful
+
+## Fishing vs post-Hoc Exploration
+
+- fishing
+    - bad
+    - looking for something significant when there might not be
+- post-hoc exploration
+    - good
+    - use unexpected results to inform later experiments
+
+## Password Space
+- repetition, order -> log2(alphabet^length)
+- no rep, no order  -> log2(alphabet C length)
+- no rep, order     -> log2(alphabet! / (alphabet - length)!) AKA log2(alphabet P length)
 
 
 
