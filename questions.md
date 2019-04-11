@@ -3,10 +3,10 @@
 ## Multiple Choice
 
 1. Example Question
-    a) One choice
-    b) Another choice
-    c) **The correct choice**
-    d) Yet another choice
+    - a) One choice
+    - b) Another choice
+    - c) **The correct choice**
+    - d) Yet another choice
 
 
 
