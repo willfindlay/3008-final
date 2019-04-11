@@ -1,3 +1,5 @@
+---
+
 # Usable Security
 
 ## Why Usability Affects Security
@@ -433,6 +435,7 @@
 
 - challenges?
     - smaller screens
+    - fat fingers
     - few physical buttons
     - usability preference varies
 
@@ -441,6 +444,9 @@
 - size appropriately
 
 - main functions apparent
+
+- avoid forms
+    - auto fill when possible
 
 - enable repeat actions
 
@@ -457,12 +463,24 @@
 - kinect
 
 - applications
+    - gaming
+    - sign language
+    - video conferencing
+    - touch-free situations
+        - driving
+        - sterile environments
 
 - challenges
+    - how to recognize specific gestures
+    - how to separate one gesture from the next
+    - may feel awkward or weird
 
 - NUIs
-
-- UI feels like an extension of body
+    - natural user interface
+    - feels like an extension of the body
+    - should be comfortable (resting position most of the time)
+    - easy gestures
+    - avoid everyday gestures (unintentional interaction)
 
 
 
@@ -490,12 +508,25 @@
 ## Design Issues With Wearables
 
 - micro-interactions (no more than 4 seconds)
+    - split attention with real world
+    - one task per interaction
+    - one input per interaction
+    - no more than 4 seconds per step
 
 - interruptions
+    - assume user is engaged in a real world task
+    - "is this really necessary now?"
+    - interrupt in a way that requires low attention
+    - dismiss/ignore with minimal effort
 
 - social acceptance
+    - should be socially acceptable to those around
+    - should be fashionable
 
 - privacy/ethical concerns
+    - can record private info
+    - sensitive medical info
+    - other people's privacy
 
 
 
