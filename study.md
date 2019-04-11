@@ -37,11 +37,13 @@
 
 ## Why Does Phishing Still Work?
 
-<!-- come back to this -->
+- people are dumb
 
 ## Usable Policies
 
-<!-- come back to this -->
+- easy to remember -> easy to guess
+- hard to remember -> hard to guess
+- usability vs security trade-off
 
 
 
@@ -276,6 +278,68 @@
 
 # Emotional Interaction
 
+## Benefits of Incorporating Emotion Into Design
+
+- people tend to treat computers as real people
+- computers should emulate human etiquette
+- make users feel at ease, comfortable
+
+## Guidelines for Incorporating Emotion
+
+<!-- come back to this -->
+
+## Russell's Circumplex Model
+
+- 2d circle mapped to emotions
+- clockwise
+    - activation
+    - pleasant
+    - deactivation
+    - unpleasant
+
+## PAD
+
+- pleasure
+- arousal
+- dominance
+
+## Flow Model
+
+- state of concentration or complete absorption
+
+## Theory of Media Equation
+
+- people treat computers and other media as if they were real people
+
+## Fogg's Principles of Persuasive Technology
+
+- RATTSRC
+
+1. reduction
+    - simplify user tasks
+1. tunnelings
+    - lead to progressively more critical steps
+1. tailoring
+    - customize interaction to user
+1. suggestion
+    - present better alternative actions
+1. conditioning
+    - reinforcement
+1. reciprocity
+    - reward user
+1. authority
+    - mentor user
+
+## Anthropomorphism
+
+- advantages
+    - flattering and praising users = good
+
+- disadvantages
+    - people don't like waving
+    - makes people feel anxious, inferior, stupid
+    - personalized feedback less honest, makes users feel less responsible
+
 
 
 
@@ -289,6 +353,64 @@
 
 
 # Social Interaction
+
+## Groupware Matrix
+
+- synchronous/asynchronous
+    - same time
+    - different time
+
+- co-located/remote
+    - same place
+    - different place
+
+## Remote Conversations
+
+- some mimic existing ways of conversing
+- some move beyond
+
+## Conversational Rules
+
+1. Speaker chooses next speaker.
+1. Another person decides to start speaking.
+1. Current speaker keeps talking.
+
+- turn taking
+- back channeling (feedback like mhm, uh-huh)
+- farewell rituals
+- misunderstandings
+    - huh?
+    - speaker repeats with emphasis
+
+## Coordination
+
+- verbal/non-verbal communication
+- schedules, rules, conventions
+- shared external representations
+
+## Awareness
+
+- knowing who is around
+- what is happening
+- who is talking with whom
+
+## Peripheral Awareness
+
+- overhearing/overseeing
+- keep track without explicit cues
+
+## Multi-Touch Displays
+
+- IR
+    - detect disruption in LED beams
+
+- Resistive
+    - two thin layers
+    - press on top and detect where they touch
+
+- Capacitive
+    - one side of surface is conductive
+    - detect where capacitance increases
 
 
 
@@ -304,6 +426,43 @@
 
 # Mobile Interaction
 
+## Challenges/Features of Mobile Design
+
+- use while on the move
+- increasingly used in all aspects of life
+
+- challenges?
+    - smaller screens
+    - few physical buttons
+    - usability preference varies
+
+## Mobile Design Guidelines
+
+- size appropriately
+
+- main functions apparent
+
+- enable repeat actions
+
+- allow offline use
+
+- error prevention
+
+- multi-sensory output
+
+- speed and efficiency
+
+## Air Gestures
+
+- kinect
+
+- applications
+
+- challenges
+
+- NUIs
+
+- UI feels like an extension of body
 
 
 
@@ -317,6 +476,26 @@
 
 
 # Wearables and Eye Tracking
+
+## Eye Tracking and Measures
+
+## Eye Tracking Uses
+
+## Midas Gaze Problem
+
+## Gaze Selection Techniques
+
+## What Is Wearable Computing
+
+## Design Issues With Wearables
+
+- micro-interactions (no more than 4 seconds)
+
+- interruptions
+
+- social acceptance
+
+- privacy/ethical concerns
 
 
 
