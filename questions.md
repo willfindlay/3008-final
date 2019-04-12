@@ -239,6 +239,69 @@
     - D) Allowing offline use
     - E) All of the above
     - F) Only A and B
+1. Which of the following is not one of the mobile design guidelines?
+    - A) Size appropriately
+    - B) Make main functions apparent
+    - C) Error prevention
+    - D) Multi-sensory output
+    - E) Disallow offline use
+    - F) These are all members of the mobile design guidelines
+1. Which of the following is best suited to touch-free situations?
+    - A) Air gestures
+    - B) Eye tracking
+    - C) A mobile app
+    - D) A standard mouse and keyboard
+1. The challenges of air gesture input include:
+    - A) How to recognize specific gestures
+    - B) How to separate the end of one gesture and the beginning of the next
+    - C) They may make the user feel awkward of weird
+    - D) All of the above
+    - E) Only A and B
+1. A NUI is \_\_\_\_\_\_\_\_\_\_.
+    - A) A Natural User Interface
+    - B) A UI that feels like an extension of the body
+    - C) Necessarily less comfortable than a regular UI
+    - D) A UI that makes use of everyday gestures
+    - E) A, B, and D
+    - F) A and B
+1. Eye tracking is accurate to \_\_\_\_\_\_\_\_\_\_.
+    - A) 0.5 to 1 degrees
+    - B) 0.5 to 1 mm
+    - C) 1 to 2 radians
+    - D) 1 to 2 degrees
+    - E) None of the above
+1. Eye tracking technology typically uses which of the following?
+    - A) Infrared light and a sensor
+    - B) Trigonometry
+    - C) Bluetooth contact lenses
+    - D) None of the above
+    - E) A and B
+    - F) B and C
+1. \_\_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_ are considered less reliable than other eyetracking measures.
+    - A) Fixations and saccades
+    - B) Scanpath and swell time
+    - C) Blink rate and fixations
+    - D) Dilations of pupils and blink rate
+    - E) None of the above
+1. Saccades refer to \_\_\_\_\_\_\_\_\_\_.
+    - A) When the eyes are stationary.
+    - B) Another word for scanpaths
+    - C) Longer periods of fixation
+    - D) Size differences in the pupils get when focusing on a task
+    - E) Quick eye movements between fixations
+1. Eye tracking can be used \_\_\_\_\_\_\_\_\_\_.
+    - A) For medical applications such as predicting autism or diagnosing nerve disorders
+    - B) For research
+    - C) For user input
+    - D) As an indicator of visual focus or attention
+    - E) All of the above
+    - F) Only A, B, and D
+1. How does the Midas Touch relate to eye tracking?
+    - A) People hate when things touch their eyes
+    - B) Augmented reality can make everything look better than it really is
+    - C) It's difficult to separate real input from casual gazing (The Midas Gaze Problem)
+    - D) There is no relation between the Midas Touch and eye tracking
+
 
 
 
