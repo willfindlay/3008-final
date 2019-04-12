@@ -63,7 +63,21 @@
     - D) Remember the 7 +/- 2 rule and don't overload user memory
     - E) A, C, and D
     - F) B, C, and D
-
+1. Which of the following **does not represent** good quantitative data to collect in a user study?
+    - A) Likert scale questions
+    - B) Open-ended questions
+    - C) Number of successful attempts per user
+    - D) Number of failed attempts per user
+    - E) Number of times users got up to use the bathroom
+    - F) A, B, and E
+    - G) B and E
+1. Which of the following would be ordered from lowest to highest value?
+    - A) min, upper quartile, middle quartile, lower quartile, max
+    - B) mean, median, mode
+    - C) min, mean, median, max
+    - D) min, lower quartile, middle quartile, upper quartile, max
+    - E) median, lower quartile, middle quartile, upper quartile, mean
+1. A high standard deviation means \_\_\_\_\_\_\_\_\_\_.
 
 
 
