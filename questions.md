@@ -72,12 +72,37 @@
     - F) A, B, and E
     - G) B and E
 1. Which of the following would be ordered from lowest to highest value?
-    - A) min, upper quartile, middle quartile, lower quartile, max
-    - B) mean, median, mode
-    - C) min, mean, median, max
-    - D) min, lower quartile, middle quartile, upper quartile, max
-    - E) median, lower quartile, middle quartile, upper quartile, mean
+    - A) Min, upper quartile, middle quartile, lower quartile, max
+    - B) Mean, median, mode
+    - C) Min, mean, median, max
+    - D) Min, lower quartile, middle quartile, upper quartile, max
+    - E) Median, lower quartile, middle quartile, upper quartile, mean
 1. A high standard deviation means \_\_\_\_\_\_\_\_\_\_.
+    - A) A lot of data will be far from the mean
+    - B) A lot of data will be close to the mean
+    - C) The median will be much higher than the mean
+    - D) The median will be much lower than the mean
+    - E) None of the above are related to standard deviation
+1. Which of the following a type I error?
+    - A) Making a rounding error when calculating mean
+    - B) Assuming that causation implies correlation
+    - C) Assuming there is a correlation between X and Y when there isn't
+    - D) Assuming there is no correlation between X and Y when there is
+    - E) None of the above are examples of a type I error
+1. Which of the following a type II error?
+    - A) Making a rounding error when calculating mean
+    - B) Assuming that causation implies correlation
+    - C) Assuming there is a correlation between X and Y when there isn't
+    - D) Assuming there is no correlation between X and Y when there is
+    - E) None of the above are examples of a type II error
+1. Consider the following scenario:<br><br>
+    You are measuring how long it takes for sand to empty from the top of various hourglasses.
+    Which of the following could be considered a dependent and independent variable respectively?
+    - A)
+    - B)
+    - C)
+    - D)
+    - E)
 
 
 
