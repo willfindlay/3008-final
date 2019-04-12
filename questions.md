@@ -97,12 +97,12 @@
     - E) None of the above are examples of a type II error
 1. Consider the following scenario:<br>
     `You are measuring how long it takes for sand to empty from the top of various hourglasses.`<br>
-    Which of the following could be considered a dependent and independent variable respectively?
-    - A)
-    - B)
-    - C)
-    - D)
-    - E)
+    Which of the following could be considered a dependent and independent **quantitative variable** respectively?
+    - A) Shape of the hourglass and time it takes for the sand to reach the bottom
+    - B) Time it takes for the sand to reach the bottom and shape of the hourglass
+    - C) Time it takes for the sand to reach the bottom and volume of the hourglass
+    - D) Volume of sand in the hourglass and volume of the hourglass
+    - E) Volume of the hourglass and time it takes for the sand to reach the bottom
 
 
 
