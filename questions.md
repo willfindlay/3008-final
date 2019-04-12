@@ -159,6 +159,87 @@
     - C) People love it when computers wave at them
     - D) Flattering and praising users is considered bad
     - E) A and D
+1. Suppose you are using the SCRUM system to manage tasks between you and your co-workers. Each time a co-worker completes a task, they move the sticky-note representing the task from "In-Progress" to "Complete". Where does this organizational method fall in the Groupware Matrix?
+    - A) Synchronous, Co-Located
+    - B) Asynchronous, Remote
+    - C) Asynchronous, Co-Located
+    - D) Synchronous, Remote
+    - E) Pleasure, Arousal
+1. Remote conversations can \_\_\_\_\_\_\_\_\_\_.
+    - A) Mimic existing ways of conversing
+    - B) Move beyond existing ways of conversing
+    - C) Promote anti-social behavior
+    - D) A and B
+    - E) All of the above
+1. Which of these is not a possible conversation state according to Sack's conversational rules?
+    - A) Speaker chooses next speaker
+    - B) Speaker is interrupted abruptly
+    - C) Another person decides to start speaking
+    - D) Current speaker keeps talking
+    - E) All of the above are possible conversation states
+1. Sack's conversational rules include which of the following:
+    - A) Turn taking
+    - B) Back channeling
+    - C) Farewell rituals
+    - D) Misunderstandings
+    - E) All of the above
+    - F) Everything except for D
+1. Back channeling is \_\_\_\_\_\_\_\_\_\_.
+    - A) Offering feedback while listening, such as "mhm" or "uh-huh"
+    - B) Considered extremely rude in Chinese culture
+    - C) A signature move used by professional swimmers at the Olympics
+    - D) The only conversational rule that is not widely accepted
+    - E) None of the above
+1. Misunderstandings can be resolved or abated by \_\_\_\_\_\_\_\_\_\_.
+    - A) Apologizing profusely
+    - B) Making them an offer they can't refuse
+    - C) The speaker repeating with emphasis
+    - D) The listener making their confusion known, such as by saying, "huh?"
+    - E) C and D
+1. Which of the following does not support peripheral awareness?
+    - A) Email
+    - B) A CLI chatroom interface where you type in the IP address you want to connect to and have to press Ctrl-C to quit
+    - C) A Skype call
+    - D) Facebook Messenger
+    - E) These all support peripheral awareness
+1. Awareness is \_\_\_\_\_\_\_\_\_\_.
+    - A) A superset of peripheral awareness
+    - B) Knowing who is around
+    - C) Knowing what is happening
+    - D) Knowing who is talking with whom
+    - E) All of the above
+1. IR Multi-Touch displays work by \_\_\_\_\_\_\_\_\_\_.
+    - A) Magic
+    - B) Detecting disruption in LED beams
+    - C) Two resistive layers making contact with each other
+    - D) The conductive side of a surface detecting when capacitance increases
+    - E) None of the above
+1. Which of the following is not a challenge of mobile design?
+    - A) Smaller screens
+    - B) People with fat fingers
+    - C) Few physical buttons
+    - D) High variance in usability preference
+    - E) They are all challenges of mobile design
+1. It is recommended to design buttons at least \_\_\_\_\_\_\_\_\_\_ pixels wide for finger use in mobile applications.
+    - A) 52
+    - B) 50
+    - C) 72
+    - D) 57
+    - E) 80
+1. It is recommended to design buttons at least \_\_\_\_\_\_\_\_\_\_ pixels wide for thumb use in mobile applications.
+    - A) 52
+    - B) 50
+    - C) 72
+    - D) 57
+    - E) 80
+1. Which of the following should be avoided when possible in mobile design?
+    - A) Miniaturizing target size without consideration
+    - B) Forms for input
+    - C) Storing recent activities for quick repeats
+    - D) Allowing offline use
+    - E) All of the above
+    - F) Only A and B
+
 
 
 
