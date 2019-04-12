@@ -96,7 +96,7 @@
     - D) Assuming there is no correlation between X and Y when there is
     - E) None of the above are examples of a type II error
 1. Consider the following scenario:<br>
-    You are measuring how long it takes for sand to empty from the top of various hourglasses.<br>
+    `You are measuring how long it takes for sand to empty from the top of various hourglasses.`<br>
     Which of the following could be considered a dependent and independent variable respectively?
     - A)
     - B)
