@@ -257,7 +257,7 @@
     - C) They may make the user feel awkward of weird
     - D) All of the above
     - E) Only A and B
-1. A NUI is \_\_\_\_\_\_\_\_\_\_.
+1. An NUI is \_\_\_\_\_\_\_\_\_\_.
     - A) A Natural User Interface
     - B) A UI that feels like an extension of the body
     - C) Necessarily less comfortable than a regular UI
@@ -301,6 +301,65 @@
     - B) Augmented reality can make everything look better than it really is
     - C) It's difficult to separate real input from casual gazing (The Midas Gaze Problem)
     - D) There is no relation between the Midas Touch and eye tracking
+1. Wearable computing \_\_\_\_\_\_\_\_\_\_.
+    - A) Is a computer that you can wear.
+    - B) Requires that great care be taken in its design in order to make it socially acceptable
+    - C) Is just a fad, completely unsupported by trends
+    - D) All of the above
+    - E) A and B
+    - F) A and C
+1. Micro-interactions with wearables should last \_\_\_\_\_\_\_\_\_\_.
+    - A) No more than 3 seconds
+    - B) No more than 6 seconds
+    - C) No more than 4 seconds
+    - D) No more than 10 seconds
+    - E) As long as possible without the user getting bored
+1. What is the best way for designers to deal with the problem of wearables causing interruptions?
+    - A) Provide an easy way to dismiss transactions
+    - B) Gradually increase engagement based on user response
+    - C) Before any design choice: ask, "It this really necessary right now?"
+    - D) Micro-interactions
+    - E) All of the above
+1. Which of the following does not represent a concern with wearable technology?
+    - A) Interaction could potentially be socially unacceptable to those around the user
+    - B) Device could be recording sensitive medical information
+    - C) Device could violate the privacy of those around the user
+    - D) Device could interrupt the user while performing sensitive tasks in the real world
+    - E) These are all concerns with wearable technology
+1. Assistive technologies \_\_\_\_\_\_\_\_\_\_.
+    - A) Are personal assistants, like Siri, Alexa, or Google Assistant
+    - B) Make disabled people feel badly about themselves
+    - C) Help disabled people by promoting independence
+    - D) Provide modified methods for interaction
+    - E) Help to accomplish otherwise difficult tasks
+    - F) C, D, and E
+    - G) C and E
+1. Which of the following represents the full list of the Principles of Universal Design
+    - A) Equitable use, flexibility, simple and intuitive, perceptible information, tolerance for error
+    - B) High in contrast, more usable by the disabled, easy to maintain, easy to learn
+    - C) No images (since blind people can't see them), keyboard-only navigation, all buttons must have auditory feedback
+    - D) Multi-sensory output, big font, large buttons, lots of color
+    - E) None of the above
+1. Which of the following is not a problem for web accessibility?
+    - A) Images without alternate text
+    - B) Misleading use of header tags
+    - C) Uncaptioned audio
+    - D) Low contrast web pages
+    - E) Small font sizes
+    - F) These could all be considered problems for web accessibility
+
+1. The WCAG Standards for accessibility on the web are:
+    - A) Perfectly legible, open to all users, understandable, reliable
+    - B) Perceivable, operable, understandable, robust
+    - C) Per-user experience, overt, uninterrupted, readable
+    - D) Perceivable, open to all users, uninterrupted, reliable
+    - E) None of the above
+
+1. The Model-View-Controller architecture allows for:
+    - A) The UI to be separated from the implementation
+    - B) The UI to be changed based on user needs
+    - C) Easier modifications to the UI according to end-user needs
+    - D) All of the above
 
 
 
