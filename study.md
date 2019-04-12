@@ -1,3 +1,5 @@
+---
+
 # Usable Security
 
 ## Why Usability Affects Security
@@ -433,6 +435,7 @@
 
 - challenges?
     - smaller screens
+    - fat fingers
     - few physical buttons
     - usability preference varies
 
@@ -441,6 +444,9 @@
 - size appropriately
 
 - main functions apparent
+
+- avoid forms
+    - auto fill when possible
 
 - enable repeat actions
 
@@ -457,12 +463,24 @@
 - kinect
 
 - applications
+    - gaming
+    - sign language
+    - video conferencing
+    - touch-free situations
+        - driving
+        - sterile environments
 
 - challenges
+    - how to recognize specific gestures
+    - how to separate one gesture from the next
+    - may feel awkward or weird
 
 - NUIs
-
-- UI feels like an extension of body
+    - natural user interface
+    - feels like an extension of the body
+    - should be comfortable (resting position most of the time)
+    - easy gestures
+    - avoid everyday gestures (unintentional interaction)
 
 
 
@@ -477,25 +495,88 @@
 
 # Wearables and Eye Tracking
 
-## Eye Tracking and Measures
+## Eye Tracking Tech and Measures
+
+- measures eye movement
+    - where you're looking
+    - where your gaze shifts
+
+- accurate to 0.5-1 degree
+- how does it work?
+    - infrared light and sensor
+    - track corneal reflection using trig
+
+Measures:
+
+- fixations
+    - when eyes are stationary
+- saccades
+    - quick eye movements between fixations
+- scanpath
+    - saccade-fixate-saccade path
+- dwell time
+    - prolonged gaze
+    - longer than fixation
+
+Less reliable:
+
+- blink rate
+    - low -> high workload
+    - high -> fatigue
+- large pupils
+    - more cognitive effort
 
 ## Eye Tracking Uses
 
+- indicator of visual focus and attention
+- control signal for input
+
+Domains:
+
+- research
+- medical
+
 ## Midas Gaze Problem
+
+- everywhere you look could be interpreted as input
+- how to separate real input from casual gazing
 
 ## Gaze Selection Techniques
 
+- gaze pointing plus another method for selecting
+    - like a button or a gesture
+- adjustable dwell time
+- pause/resume input
+- make on-screen object bigger to address accuracy
+
 ## What Is Wearable Computing
+
+- computer that you wear
+- to be used during other daily activities
+- expect interruptions
 
 ## Design Issues With Wearables
 
 - micro-interactions (no more than 4 seconds)
+    - split attention with real world
+    - one task per interaction
+    - one input per interaction
+    - no more than 4 seconds per step
 
 - interruptions
+    - assume user is engaged in a real world task
+    - "is this really necessary now?"
+    - interrupt in a way that requires low attention
+    - dismiss/ignore with minimal effort
 
 - social acceptance
+    - should be socially acceptable to those around
+    - should be fashionable
 
 - privacy/ethical concerns
+    - can record private info
+    - sensitive medical info
+    - other people's privacy
 
 
 
@@ -510,3 +591,48 @@
 
 
 # Accessibility
+
+## Assistive Technologies
+
+- promote independence for disabled people
+- accomplish otherwise difficult tasks
+- modified methods for interacting
+
+## Principles of Universal Design
+
+- make things accessible by default
+- avoid need for post adaptations
+
+1. Equitable use
+    - identical for all users when possible
+    - equivalent when not
+2. Flexibility
+    - offer choice of methods
+3. Simple and intuitive
+4. Perceptible information
+    - redundant modes of presentation
+    - contrast
+5. Tolerance for error
+    - minimize hazards
+    - failsafe features
+
+## Web Accessibility
+
+Problems:
+
+- images without alternate text
+- misleading use of structural elements
+- uncaptioned audio / undescribed video
+- etc.
+
+WCAG Standards (POUR):
+
+1. Perceivable
+1. Operable
+1. Understandable
+1. Robust
+
+## How To Incorporate Accessibility Into Design
+
+- design without user interface
+    - MVC
