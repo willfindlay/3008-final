@@ -103,6 +103,18 @@
     - C) Time it takes for the sand to reach the bottom and volume of the hourglass
     - D) Volume of sand in the hourglass and volume of the hourglass
     - E) Volume of the hourglass and time it takes for the sand to reach the bottom
+1. Suppose we run a paired t-test on two phases of a between-subjects study. The results of the study show negligible skewness and zero kurtosis. The t-test produces a p-value of 0.3451 and our confidence interval is the standard 95%. Which of the following represents the best course of action?
+    - A) Accept the null hypothesis
+    - B) Accept the alternative hypothesis
+    - C) Reject the null hypothesis
+    - D) B and C
+    - E) We should not make a decision based on this t-test
+1. Suppose we run a Mann-Whitney test on two phases of a between-subjects study. The results of the study show positive skewness and negative kurtosis. The Mann-Whitney test produces a p-value of 0.0487 and our confidence interval is the standard 95%. Which of the following represents the best course of action?
+    - A) Accept the null hypothesis
+    - B) Accept the alternative hypothesis
+    - C) Reject the null hypothesis
+    - D) B and C
+    - E) We should not make a decision based on this Mann-Whitney test
 
 
 
