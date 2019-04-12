@@ -115,7 +115,20 @@
     - C) Reject the null hypothesis
     - D) B and C
     - E) We should not make a decision based on this Mann-Whitney test
-
+1. What is the difference between a bar graph and a histogram?
+    - A) There is no difference between the two
+    - B) A histogram shows historical trends, while a bar graph shows current trends
+    - C) Histograms are always laid out horizontally, while bar graphs are always stacked
+    - D) A bar graph has a continuous scale, while a histogram has a discrete legend
+    - E) A bar graph has a discrete legend, while a histogram has a continuous scale
+1. Which of the following statements about fishing and post-hoc exploration is true?
+    - A) Fishing and post-hoc exploration are the same thing
+    - B) Fishing is when you are tricked into giving away your password and has nothing to do with post-hoc exploration
+    - C) Fishing and post-hoc exploration are both considered good things to do after a study
+    - D) Fishing is considered bad practice, while post-hoc exploration is considered good practice
+    - E) Fishing is trying to find meaningful results in your data when there may not be any; post-hoc exploration is trying to use unexpected results to inform further study
+    - F) D and E
+    - G) C and E
 
 
 
