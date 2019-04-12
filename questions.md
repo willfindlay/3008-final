@@ -129,6 +129,36 @@
     - E) Fishing is trying to find meaningful results in your data when there may not be any; post-hoc exploration is trying to use unexpected results to inform further study
     - F) D and E
     - G) C and E
+1. Which of the following is **not** part of Fogg's principles of persuasive technology:
+    - A) Reduction
+    - B) Redundancy
+    - C) Conditioning
+    - D) Tailoring
+    - E) All of the above **are** part of Fogg's principles of persuasive technology
+1. The theory of media equation states that \_\_\_\_\_\_\_\_\_\_.
+    - A) People are twice as likely to be on the internet as they are to be consuming other media
+    - B) The medium is the message
+    - C) All media is consumed equally
+    - D) People treat computers and other media as if they were real people
+    - E) People are increasingly treating computers with distrust
+1. The flow model describes \_\_\_\_\_\_\_\_\_\_.
+    - A) A state of concentration or complete absorption
+    - B) The transfer of data between various parts of human memory
+    - C) The transfer of consciousness between the left and right parts of the brain during a task
+    - D) The movement of eyes across a sheet of paper while reading.
+    - E) None of the above
+1. The PAD model and Russell's Circumplex model are similar in which of the following ways:
+    - A) They both map human emotion to a 2D scale
+    - B) They both track levels of pleasure and arousal/activation
+    - C) They both track pleasure, arousal, and dominance
+    - D) All of the above
+    - E) They have nothing to do with each other
+1. Which of the following is/are in the set of disadvantages of anthropomorphism?
+    - A) People are worried computers may one day become human and take over the world
+    - B) Personalized feedback feels less honest
+    - C) People love it when computers wave at them
+    - D) Flattering and praising users is considered bad
+    - E) A and D
 
 
 
