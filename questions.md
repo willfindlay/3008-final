@@ -14,7 +14,7 @@
     - C) A usability paradigm that states that security should be as easy to use as a barn door
     - D) B and C
     - E) None of the above
-1. Which of the following is/are examples of a "something you know" authentication mechanisms?
+1. Which of the following is/are examples of a "something you know" authentication mechanism?
     - A) Fingerprint
     - B) 2FA
     - C) Password
