@@ -53,9 +53,9 @@
     - F) All of the above
 1. What is the Recency Effect?
     - A) The elements at the beginning of the list are more memorable
-    - A) The elements at the beginning of the list are less memorable
-    - A) The elements at the end of the list are more memorable
-    - A) The elements at the end of the list are less memorable
+    - B) The elements at the beginning of the list are less memorable
+    - C) The elements at the end of the list are more memorable
+    - D) The elements at the end of the list are less memorable
 1. People can keep \_\_\_\_\_\_\_\_\_\_.
     - A) 10 things in working memory at a time
     - B) 7 +/- 2 things in sensory memory at a time
