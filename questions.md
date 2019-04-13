@@ -369,10 +369,10 @@
 
 1. Consider the following screenshots of the Spotify Android app:
 
-[spotify-1](figs/spotify-1.jpg)
-[spotify-2](figs/spotify-2.jpg)
-[spotify-3](figs/spotify-3.jpg)
+![spotify-1](figs/spotify-1.jpg)
+![spotify-2](figs/spotify-2.jpg)
+![spotify-3](figs/spotify-3.jpg)
 
-[spotify-4](figs/spotify-4.jpg)
-[spotify-5](figs/spotify-5.jpg)
-[spotify-6](figs/spotify-6.jpg)
+![spotify-4](figs/spotify-4.jpg)
+![spotify-5](figs/spotify-5.jpg)
+![spotify-6](figs/spotify-6.jpg)
