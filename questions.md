@@ -368,9 +368,9 @@
 ## Short Answer
 
 1. Consider the following screenshots of the Spotify Android app:
-<br>
+
 <img src="figs/spotify-1.jpg" width="30%" style="display: inline-block;"> <img src="figs/spotify-2.jpg" width="30%" style="display: inline-block;"> <img src="figs/spotify-3.jpg" width="30%" style="display: inline-block;">
-<br>
+
 <img src="figs/spotify-4.jpg" width="30%" style="display: inline-block;"> <img src="figs/spotify-5.jpg" width="30%" style="display: inline-block;"> <img src="figs/spotify-6.jpg" width="30%" style="display: inline-block;">
-<br>
+
 Draw a storyboard for creating a playlist in the application and adding songs.
