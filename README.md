@@ -3,4 +3,4 @@
 ## How to View
 
 - [Click here](study.md) for notes on Sana's important topics
-- [Click here](questions.md) for some practice questions (WIP)
+- [Click here](questions.md) for some practice questions
