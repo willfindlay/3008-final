@@ -442,12 +442,12 @@
 
 Draw a storyboard for creating a playlist in the application and adding songs.
 
-2. Explain at least one major pitfall related to using eye tracking as user input. Describe at least two ways you might design an interface to minimize any negative effects related to the pitfall.
+1. Explain at least one major pitfall related to using eye tracking as user input. Describe at least two ways you might design an interface to minimize any negative effects related to the pitfall.
 
-3. Describe the four quadrants of the Groupware Matrix and give an example of one or two social environments which may fit in each quadrant. You should describe at least six environments in total.
+1. Describe the four quadrants of the Groupware Matrix and give an example of one or two social environments which may fit in each quadrant. You should describe at least six environments in total.
 
-4. Compare and contrast Russell's Circumplex Model with the PAD Model for human emotional interaction. What are the strengths and weaknesses of each?
+1. Compare and contrast Russell's Circumplex Model with the PAD Model for human emotional interaction. What are the strengths and weaknesses of each?
 
-5. Describe Fogg's Seven Principles of Persuasive Technology in as much detail as possible.
+1. Describe Fogg's Seven Principles of Persuasive Technology in as much detail as possible.
 
-6. Draw the shape of a leptokurtic distribution with negative skew. What sort of statistical test might you use on such a distribution if it came from a within-subjects study?
+1. Draw the shape of a leptokurtic distribution with negative skew. What sort of statistical test might you use on such a distribution if it came from a within-subjects study?
