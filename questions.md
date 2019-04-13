@@ -374,3 +374,5 @@
 <img src="figs/spotify-4.jpg" width="30%" style="display: inline-block;"> <img src="figs/spotify-5.jpg" width="30%" style="display: inline-block;"> <img src="figs/spotify-6.jpg" width="30%" style="display: inline-block;">
 
 Draw a storyboard for creating a playlist in the application and adding songs.
+
+2. Explain at least one major pitfall related to using eye tracking as user input. Describe at least two ways you might design an interface to minimize any negative effects related to the pitfall.
