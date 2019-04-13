@@ -442,7 +442,7 @@
 
 Draw a storyboard for creating a playlist in the application and adding songs.
 
-1. Explain at least one major pitfall related to using eye tracking as user input. Describe at least two ways you might design an interface to minimize any negative effects related to the pitfall.
+20. Explain at least one major pitfall related to using eye tracking as user input. Describe at least two ways you might design an interface to minimize any negative effects related to the pitfall.
 
 1. Describe the four quadrants of the Groupware Matrix and give an example of one or two social environments which may fit in each quadrant. You should describe at least six environments in total.
 
