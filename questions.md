@@ -382,3 +382,5 @@ Draw a storyboard for creating a playlist in the application and adding songs.
 4. Compare and contrast Russell's Circumplex Model with the PAD Model for human emotional interaction. What are the strengths and weaknesses of each?
 
 5. Describe Fogg's Seven Principles of Persuasive Technology in as much detail as possible.
+
+6. Draw the shape of a leptokurtic distribution with negative skew. What sort of statistical test might you use on such a distribution if it came from a within-subjects study?

@@ -224,7 +224,7 @@
 - mesokurtic
     - normal distribution shape
     - kurt = 0
-- letdokurtic
+- leptokurtic
     - tall and thin
     - short but thicker tails
     - kurt < 0
