@@ -44,6 +44,18 @@
     - C) Working memory, sensory memory, long term memory
     - D) Sensory memory, long term memory, working memory
     - E) They all have the same access time
+1. In a list, which elements are the most memorable?
+    - A) The elements at the beginning of the list
+    - B) The elements at the middle of the list
+    - C) The elements at the end of the list
+    - D) A and B
+    - E) A and C
+    - F) All of the above
+1. What is the Recency Effect?
+    - A) The elements at the beginning of the list are more memorable
+    - A) The elements at the beginning of the list are less memorable
+    - A) The elements at the end of the list are more memorable
+    - A) The elements at the end of the list are less memorable
 1. People can keep \_\_\_\_\_\_\_\_\_\_.
     - A) 10 things in working memory at a time
     - B) 7 +/- 2 things in sensory memory at a time
