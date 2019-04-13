@@ -373,11 +373,66 @@
     - C) Easier modifications to the UI according to end-user needs
     - D) All of the above
 
+1. What is a advantages of a lab study ?
+    - A) It's conducted in the real world 
+    - B) Take's a long time to conduct
+    - C) Controlled in lab
 
+1. What does the C in C.R.A.P stand for ?
+    - A) Contrast
+    - B) Color
+    - C) Clarity
 
+1. Considering groupware matrix of Time/Space what does posting on a Facebook wall considered as?
+    - A) Continous task
+    - B) Communication + coordination
+    - C) Remote interactions
 
+1. A click through website is a low fidelity prototype for a web app.
+    - A) True
+    - B) False
+
+1. What does the cognitive walkthrough put and emphasis on?
+    - A)
+    - B)
 
 ## Short Answer
+
+1. Which one has a bigger password space a 3-digit pin or a text password that is lenght of 3 and only contain lower case characters?
+
+1. What are some advantages of a structured interview vs unstructured?
+
+1. Name the 6 usability goals. (SULEEM)
+
+1. Name the 4 common design principles. (FACV)
+
+1. Name 2 pitfalls of using a persona
+
+1. Why is Fishing bad in comparison to Post hoc
+
+1. What are the 2 scales used in Russell's circumplex model. In addition what extra scale ewas added in order to create the PAD model?
+
+1. What are the pros and con's of using a within-subject study vs a between-subject study?
+
+1. What are 2 dependent variables you would observe when conducting?
+
+1. What are 2 characteristics of a normal distribution?
+
+1. Design an shopify store that implements C.R.A.P for skateboards
+
+1. Explain the theory of Flow and how it relates to video games?
+
+1. Explain the concept of ecological validity
+
+1. What does GOMS stand for? 
+
+1. What are the differences between distributed cognition and external cognition.
+
+1. Draw the diagram of the user mental model, designer mental model and how they interact with the system image.
+
+1. What are some disadvantages of highly incorperating metaphors into design?
+
+1. What are 2 features of direct manipulation as a interaction type.4
 
 1. Consider the following screenshots of the Spotify Android app:
 
@@ -387,12 +442,12 @@
 
 Draw a storyboard for creating a playlist in the application and adding songs.
 
-2. Explain at least one major pitfall related to using eye tracking as user input. Describe at least two ways you might design an interface to minimize any negative effects related to the pitfall.
+1. Explain at least one major pitfall related to using eye tracking as user input. Describe at least two ways you might design an interface to minimize any negative effects related to the pitfall.
 
-3. Describe the four quadrants of the Groupware Matrix and give an example of one or two social environments which may fit in each quadrant. You should describe at least six environments in total.
+1. Describe the four quadrants of the Groupware Matrix and give an example of one or two social environments which may fit in each quadrant. You should describe at least six environments in total.
 
-4. Compare and contrast Russell's Circumplex Model with the PAD Model for human emotional interaction. What are the strengths and weaknesses of each?
+1. Compare and contrast Russell's Circumplex Model with the PAD Model for human emotional interaction. What are the strengths and weaknesses of each?
 
-5. Describe Fogg's Seven Principles of Persuasive Technology in as much detail as possible.
+1. Describe Fogg's Seven Principles of Persuasive Technology in as much detail as possible.
 
-6. Draw the shape of a leptokurtic distribution with negative skew. What sort of statistical test might you use on such a distribution if it came from a within-subjects study?
+1. Draw the shape of a leptokurtic distribution with negative skew. What sort of statistical test might you use on such a distribution if it came from a within-subjects study?
